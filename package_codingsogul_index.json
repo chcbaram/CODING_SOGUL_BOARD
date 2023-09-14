@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/chcbaram/CODING_SOGUL_STM32/releases/download/2.6.0.1/CODING_SOGUL_STM32_2.6.0.1.zip",
           "archiveFileName": "CODING_SOGUL_STM32_2.6.0.1.zip",
-          "checksum": "SHA-256:2a8eb4195702c4472d8f120dc5ee41271143f2b372dd77e42f57526bace4000c",
+          "checksum": "SHA-256:f4ade6ffdd2c2d0cb4b50b9e5a19251e6b8fd366e0096242eb72e81088ca0687",
           "size": "46011363",
           "boards": [
             {"name": "STM32 Board"}
